@@ -1,0 +1,1 @@
+define({r:0.5,st:'Stem',n:1,t:[0],m:[],u:['../Content/A_Opisy/OP001_Dla_kogo_przewodnik.htm'],s:['007','przedostają'],p:[['007',21],['mlekowej',4],['słodkie',1]]});
